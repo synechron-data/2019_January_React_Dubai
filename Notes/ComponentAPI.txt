@@ -1,0 +1,16 @@
+Component API
+
+Instance Methods
+	render()
+	setState()
+	forceUpdate()
+
+Instance Properties
+	state	-	undefined
+	props	-	{}
+	refs	
+
+Class Properties
+	defaultProps: {}
+	displayName: string
+	propTypes: {}

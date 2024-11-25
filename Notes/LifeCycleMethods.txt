@@ -1,0 +1,18 @@
+Mounting
+	constructor()
+	UNSAFE_componentWillMount() | static gerDerivedStateFomProps()
+	render()
+	componentDidMount()
+
+Updating
+	UNSAFE_componentWillRecieveProps() | static gerDerivedStateFomProps()
+	shouldComponentUpdate()
+	UNSAFE_componentWillUpdate()
+	render()
+	componentDidUpdate()
+
+UnMounting
+	componentWillUnmount()
+
+Error
+	componentDidCatch()
